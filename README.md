@@ -36,7 +36,7 @@ To use AlphabetizedList in your SwiftUI project, follow these steps:
 
 ```swift
 import SwiftUI
-import AlphabetizedList
+import AlphabetScrollBar
 
 ```
 Conform your model type to the Alphabetizable protocol:
