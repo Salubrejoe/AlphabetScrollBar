@@ -35,16 +35,24 @@ To use AlphabetizedList in your SwiftUI project, follow these steps:
 ```swift
 import SwiftUI
 import AlphabetizedList
+
+```
 Conform your model type to the Alphabetizable protocol:
-swift
-Copy code
+```
+
+
 struct Country: Alphabetizable {
     var id: String { self.name }
     let name: String
 }
+
+```
+
 Create an instance of the AlphabetizedList view:
-swift
-Copy code
+
+```
+
+
 let countries: [Country] = [
     // ... your collection of Country instances ...
 ]
@@ -62,8 +70,9 @@ var body: some View {
         }
     )
 }
+```
 
-
+## Licence
 Customize the appearance by adjusting the sectionHeaderFont, sectionHeaderForegroundColor, and the cell view.
 License
 
