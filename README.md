@@ -2,6 +2,8 @@
 
 AlphabetScrollBar is a SwiftUI package that provides a reusable view for displaying collections of items in an alphabetized manner. It allows you to present the collection either as a List or a Grid, with section headers representing the alphabet index.
 
+
+![](https://github.com/Salubrejoe/)
 ## Features
 
 - Alphabetically group items in the collection.
