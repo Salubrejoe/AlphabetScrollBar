@@ -22,7 +22,7 @@ You can add AlphabetizedList to your project using Swift Package Manager. To add
 
 1. In Xcode, open your project or workspace.
 2. Go to File > Swift Packages > Add Package Dependency.
-3. Enter the repository URL: `https://github.com/salubrejoe/AlphabetizedList.git`.
+3. Enter the repository URL: `https://github.com/Salubrejoe/AlphabetizedList.git`.
 4. Click Next, then select the version rule you want to use.
 5. Click Finish.
 
