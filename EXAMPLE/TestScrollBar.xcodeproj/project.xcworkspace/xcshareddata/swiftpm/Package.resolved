@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "alphabetscrollbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Salubrejoe/AlphabetScrollBar.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "63d9778dab8293bbd21a6b16adf6c1f71a9bb179"
+      }
+    }
+  ],
+  "version" : 2
+}
