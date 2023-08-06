@@ -13,10 +13,7 @@ AlphabetScrollBar is a SwiftUI package that provides a reusable view for display
 ## Requirements
 
 - Swift 5.3+
-- iOS 14.0+
-- macOS 11.0+
-- watchOS 7.0+
-- tvOS 14.0+
+- iOS 15.0+
 
 ## Installation
 
